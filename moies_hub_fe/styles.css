@@ -1,0 +1,9 @@
+.card-image {
+    border-radius: 4px;
+    padding: 2px;
+    height: 60%;
+}
+.card-group-self{ 
+    margin: 30px;
+    max-height: 100px;
+}
